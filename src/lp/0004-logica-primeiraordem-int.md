@@ -199,7 +199,7 @@ Escrevemos $\alpha(x_{1}, \dots, x_{n})$ para indicar que a _fbf_ $\alpha$ tem $
 
 $P(x, f(a, y)) \cdot \{a/x, f(a, b)/y\} = P(a, f(a, f(a, b))).$
 
-Como podemos observar, as ocorrências das variáveis individuais $x$ e $y$ são substituídos pelos termos a que estão ligados, sendo que todas as ocorrências dessas variáveis são ambas livres.
+Como podemos observar, as ocorrências das variáveis individuais $x$ e $y$ são substituídos pelos termos a que estão ligados, sendo que todas as ocorrências dessas variáveis são livres.
 
 $(A(x) \to \exists x[B(x)]) \cdot \{a/x, f(a,b)/y\} = A(a) \to \exists x[B(x)].$
 
